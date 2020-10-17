@@ -1,0 +1,1 @@
+python main_video.py sample.mp4 -w S3D_kinetics400.pt 
